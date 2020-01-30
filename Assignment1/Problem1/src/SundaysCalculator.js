@@ -1,0 +1,34 @@
+
+
+const fs = require('fs');
+const message = " Sunday's fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000) .";
+fs.writeFile("../Output.txt", firstSundays(), function (err) {
+  if (err) {
+    return console.log(err);
+  }
+  console.log("The file was saved!");
+});
+
+function firstSundays() {
+  //Declaration of week in an array 
+  var daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  var countOfSundays = 0;
+  //iterating over the years
+  for (let year = 1901; year < 2001; year++) {
+  //iterating over the months
+    for (let month = 1; month < 13; month++) {
+      let specificDate = new Date(year, month, 1);
+      //finding sundays
+      let day = daysOfWeek[specificDate.getDay()];
+      if (day == 'Sun') {
+        console.log(specificDate.toString() + '..');
+        countOfSundays++;
+      }
+    }
+  }
+  return countOfSundays + message ;
+}
+
+
+
+
