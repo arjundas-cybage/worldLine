@@ -1,0 +1,27 @@
+import scala.util.{Failure, Success, Try, Using}
+object Series {
+  def main(args: Array[String]): Unit = {
+    val file = args.length match {
+      case 0 => "./triangle.txt" //Default name
+      case _ => args(0)
+    }
+
+    parseData(file) match {
+      case Success(data) => println("Max total: " + computeMaxTotal(data))
+      case Failure(error) => println("Got error: " + error + "\n" + "Usage:\n maxtotal <input>.txt" )
+    }
+  }
+
+  def parseData(file: String): Try[Array[Array[Int]]] = {
+    Using(scala.io.Source.fromFile(file)) {
+      source => source.getLines.map(s => s.trim.split("\\s+").map(_.toInt)).toArray
+    }
+  }
+
+  def computeMaxTotal(data: Array[Array[Int]]): Int =
+  //Start from last 2 rows & then move up the pyramid
+    data.reduceRight((topRow, bottomRow) =>
+      topRow zip (bottomRow zip bottomRow.tail)
+        map {case (topRowCol, (bottomRowLeftCol, bottomRowRightCol)) => topRowCol + Math.max(bottomRowLeftCol, bottomRowRightCol)}
+    ).head
+}
