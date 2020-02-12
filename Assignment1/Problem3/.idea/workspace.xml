@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="164a14ea-8a19-414f-8fbe-b1057a605e72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Xi0tPoSBTqSxBBVMh8aKAfZDGM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\arjund\IdeaProjects\Problem3" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.org.cybage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arjund\IdeaProjects\Problem3" />
+      <recent name="C:\Users\arjund\IdeaProjects\Problem3\src" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Problem3" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="problem3 [file:/C:/Users/arjund/IdeaProjects/Problem3/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Problem3-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="4008964131" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="164a14ea-8a19-414f-8fbe-b1057a605e72" name="Default Changelist" comment="" />
+      <created>1581513821711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581513821711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="149" key="#Project_Structure" timestamp="1581514583617">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="149" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1581514583617" />
+    <state x="0" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581514622658">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="0" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1581514622658" />
+    <state x="436" y="350" width="407" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581514329887">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="436" y="350" width="407" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984@0.0.1280.984" timestamp="1581514329887" />
+    <state x="483" y="362" width="385" height="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581514593318">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="483" y="362" width="385" height="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.984@0.0.1280.984" timestamp="1581514593318" />
+    <state x="456" y="268" key="chooseDestDirectoryDialog" timestamp="1581514527359">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="456" y="268" key="chooseDestDirectoryDialog/0.0.1280.984@0.0.1280.984" timestamp="1581514527359" />
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1581513824753">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1581513824753" />
+  </component>
+</project>

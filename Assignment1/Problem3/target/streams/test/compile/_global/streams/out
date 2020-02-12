@@ -1,0 +1,15 @@
+[debug] Acquiring lock on file C:\Users\arjund\IdeaProjects\Problem3\project\target\.sbt-compilation-infos\problem3-test\.sbt-idea-lock ...
+[error] C:\Users\arjund\IdeaProjects\Problem3\src\test\scala\MaxCountTest.scala:4:12: object scalatest is not a member of package org
+[error] import org.scalatest.FunSuite
+[error]            ^
+[error] C:\Users\arjund\IdeaProjects\Problem3\src\test\scala\MaxCountTest.scala:7:28: not found: type FunSuite
+[error] class MaxCountTest extends FunSuite {
+[error]                            ^
+[error] C:\Users\arjund\IdeaProjects\Problem3\src\test\scala\MaxCountTest.scala:10:3: not found: value test
+[error]   test("calculateMaxTotal-Positive") {
+[error]   ^
+[error] C:\Users\arjund\IdeaProjects\Problem3\src\test\scala\MaxCountTest.scala:27:3: not found: value test
+[error]   test("calculateMaxTotal-negative") {
+[error]   ^
+[error] four errors found
+[debug] Releasing lock on file C:\Users\arjund\IdeaProjects\Problem3\project\target\.sbt-compilation-infos\problem3-test\.sbt-idea-lock.

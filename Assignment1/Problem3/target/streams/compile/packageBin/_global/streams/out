@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\arjund\IdeaProjects\Problem3\target\scala-2.13\problem3_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  C:\Users\arjund\IdeaProjects\Problem3\target\scala-2.13\classes\com
+[debug] 	com\org
+[debug] 	  C:\Users\arjund\IdeaProjects\Problem3\target\scala-2.13\classes\com\org
+[debug] 	com\org\cybage
+[debug] 	  C:\Users\arjund\IdeaProjects\Problem3\target\scala-2.13\classes\com\org\cybage
+[debug] 	com\org\cybage\MaxTotal$.class
+[debug] 	  C:\Users\arjund\IdeaProjects\Problem3\target\scala-2.13\classes\com\org\cybage\MaxTotal$.class
+[debug] 	com\org\cybage\MaxTotal.class
+[debug] 	  C:\Users\arjund\IdeaProjects\Problem3\target\scala-2.13\classes\com\org\cybage\MaxTotal.class
+[debug] Done packaging.
